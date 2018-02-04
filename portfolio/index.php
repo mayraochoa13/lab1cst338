@@ -73,7 +73,9 @@ in html
             <hr>
                 <figure id="csumb">
                 <img width = "200 px" height = "150 px" src = "https://experiencecle.com/wp-content/uploads/2016/03/csumb_logo-1.png"/><br/>
-                 CST 336 Internet Programming. 2017© Ochoa
+                 CST 336 Internet Programming. 2017© Ochoa <br/>
+                <strong>Disclaimer:</strong> the information in this webpage is fictitous. <br/>
+                It is used for academic purposes only.
             </figure>
         </footer>
     </body>
